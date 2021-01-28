@@ -1,0 +1,7 @@
+{
+    name: "wait",
+    displayName: "Wait for the next update",
+    author: "QmelZ",
+    version: "1",
+    minGameVersion: 105
+}
